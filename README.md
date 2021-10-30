@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PranjalG
+- 👀 I’m interested in developing tech-solutions for day-to-day issues
+- 🌱 I’m currently learning web-development
+- 💞️ I’m looking to collaborate on web-development
