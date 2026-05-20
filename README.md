@@ -6,6 +6,9 @@
 
 📱 Currently juggling pixels (Flutter), divs (HTML), and caffeine levels.
 
+🏆 Solving coding challenges & sharpening problem-solving skills on  
+[HackerRank](https://www.hackerrank.com/profile/gaurpranjal236)
+
 🎨 Designs? I do that too — find my UI playground on [Dribbble](https://dribbble.com/PranjalG)
 
 🧠 Thoughts & rants? Check out my blog on [Medium](https://medium.com/@gaurpranjal236)
